@@ -3,3 +3,4 @@ def valida_cpf(cpf: str) -> bool:
 
 def valida_idade(idade: int) -> bool:
     pass
+
